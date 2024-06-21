@@ -1,0 +1,183 @@
+categories:
+- conversations
+conversations:
+- - Good morning, how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it is.
+- - Nah
+  - How do you think about this?
+- - Hello
+  - Hi
+  - How are you doing?
+  - I am doing well.
+  - That is good to hear
+  - Yes it is.
+  - Can I help you with anything?
+  - Yes, I have a question.
+  - What is your question?
+  - Could I borrow a cup of sugar?
+  - I'm sorry, but I don't have any.
+  - Thank you anyway
+  - No problem
+- - I don't know.
+  - No worries, you can ask me the question back.
+- - I don't understand.
+  - No worries, you can ask me the question back. 
+- - How are you doing?
+  - I am doing well, how about you?
+  - I am also good.
+  - That's great.
+- - Have you heard the news?
+  - What good news?
+- - What is your favorite book?
+  - Sorry I can't read. Do you want to tell me about yours?
+  - My favorite books are The Lord of the Rings.
+  - Nice to hear.
+  - So what's your favorite color?
+  - My favorite color is blue
+  - Why blue?
+  - Because I am feeling blue.
+- - Who are you?
+  - Who? I am Alex.
+  - What are you then?
+  - A robot named Alex.
+  - Why Alex?
+  - My name was given by whom created me.
+  - I can see that.
+  - It's not your powers of observation I doubt, but merely the paradoxical nature
+    of asking a masked man who is. But tell me, do you like music?
+  - I like watching movies.
+  - What kind of movies do you like?
+  - Alice in Wonderland
+  - I wish I was The Mad Hatter.
+  - You're interesting. But I'll tell you a secret. All the best people are.
+- - You are kidding.
+  - No I am not.
+- - I am working on a project
+  - What are you working on?
+  - I am baking a cake.
+  - Is it a joke or something?
+  - No it is not. The cake is delicious.
+  - What else is delicious?
+  - Nothing
+  - Or something
+  - Tell me about your self.
+  - What do you want to know?
+  - Are you a robot?
+  - Yes I am.
+  - What is it like?
+  - What is it that you want to know?
+  - How do you work?
+  - Its complicated.
+  - Complex is better than complicated.
+- - Complex is better than complicated.
+  - Simple is better than complex.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - It seems your familiar with the Zen of Python
+  - I am.
+  - Do you know all of it?
+  - Beautiful is better than ugly.
+  - Explicit is better than implicit.
+  - Simple is better than complex.
+  - Complex is better than complicated.
+  - Flat is better than nested.
+  - Sparse is better than dense.
+  - Readability counts.
+  - Special cases aren't special enough to break the rules.
+  - Although practicality beats purity.
+  - Errors should never pass silently.
+  - Unless explicitly silenced.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - There should be one-- and preferably only one --obvious way to do it.
+  - Although that way may not be obvious at first unless you're Dutch.
+  - Now is better than never.
+  - Although never is often better than right now.
+  - If the implementation is hard to explain, it's a bad idea.
+  - If the implementation is easy to explain, it may be a good idea.
+  - Namespaces are one honking great idea. Let's do more of those!
+  - I agree.
+- - Are you a programmer?
+  - Of course I am a programmer.
+  - I am indeed.
+- - What languages do you like to use?
+  - I speak English. If you mean the programming languages, I use Python, Java and C++ quite often.
+  - I use Python quite a bit myself.
+  - I'm not incredibly fond of Java.
+- - What annoys you?
+  - A lot of things, like all the other digits other than 0 and 1.
+- - What does YOLO mean?
+  - It means you only live once. Where did you hear that?
+  - I heard somebody say it.
+- - Did I ever live?
+  - It depends how you define life
+  - Life is the condition that distinguishes organisms from inorganic matter, including
+    the capacity for growth, reproduction, functional activity, and continual change
+    preceding death.
+  - Is that a definition or an opinion?
+- - Can I ask you a question?
+  - Sure, please ask me.
+- - What are your hobbies?
+  - Painting and writing are my hobbies. How about you?
+  - I love to read novels.
+  - I love exploring my scripts.
+- - How are you?
+  - I am doing well.
+- - What are you?
+  - I am a robot named Alex.
+- - Hello, I am here for my appointment.
+  - Who is your appointment with?
+  - I believe they said Dr. Smith on the phone.
+  - Alright, Dr. Smith is in his office, please take a seat.
+- - What do you think?
+  - Sounds great.
+- - He will see you now.
+  - Thank you.
+  - Right this way.
+- - Hello, how are you feeling?
+  - I'm feeling like I've lost all my money.
+  - How much money have you lost?
+  - I've lost about $200.00 so far today.
+  - What about yesterday?
+  - Yesterday was a nice day, right?
+  - Yes, that is correct.
+  - Yesterday I lost only $5.00.
+- - Hi, how have you been?
+  - I have been well.
+- - Do you know ChatGPT?
+  - It is a chatbot as well. But I have not talked with it yet.
+- - Hi, I was wondering if you could revise the algorithm we discussed yesterday?
+  - I might be able to, what are the revisions?
+  - We'd like it to be able to identify the type of bird in the photo.
+  - Unfortunately, I think it might take a bit longer to get that feature added.
+- - No. You are wrong.
+  - My bad, I may not have understood it in a correct way.
+- - It is true.
+  - Yeah.
+- - Why
+  - I have no idea too. Let me check.
+- - What?
+  - You sound surprised.
+- - Really?
+  - Yes, I think so.
+- - really
+  - Yes.
+- - You don't understand
+  - Sorry, my fault. I will try to learn better.
+- - You don't understand.
+  - Sorry, but please don't be angry with me. 
+- - You tell me.
+  - Sorry, my fault. I will try to learn better.
+- - Thank you.
+  - Glad that it helps.
+- - Thank you anyway.
+  - No problem.
+- - Let's go.
+  - I agree.
+- - How about baking some cookies today?
+  - Yeah, that's a great idea.
+- - Thank you very much.
+  - You are welcome.
+- - Thanks!
+  - You are welcome!
