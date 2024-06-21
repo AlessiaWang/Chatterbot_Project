@@ -10,17 +10,17 @@ All the files in this folder are created/edited by **Yilan Wang** (Student Numbe
 The thesis investigated how different types of **decisional guidance** (Informative vs. Suggestive) in a chatbot's output messages and the level of **consumer scepticism** would influence a consumer's **purchase intention** of the products or services mentioned in the output. 
 
 ### Explanation of the terms
-- Informative guidance: only giving information about some products/services that are asked by the consumers without making suggestions on what products/services they should purchase.
-- Suggestive guidance: making explicit suggestions on which purchase decision consumers should make (i.e., what products/services they should purchase).
-- Consumer scepticism: a consumer's distrust in a chatbot and its messages.
-- Purchase intention: a consumer's willingness to buy certain products or services.
+- **Informative guidance**: only giving information about some products/services that are asked by the consumers without making suggestions on what products/services they should purchase.
+- **Suggestive guidance**: making explicit suggestions on which purchase decision consumers should make (i.e., what products/services they should purchase).
+- **Consumer scepticism**: a consumer's distrust in a chatbot and its messages.
+- **Purchase intention**: a consumer's willingness to buy certain products or services.
 
 ### Experimental conditions
 Two experimental conditions - 1. informative guidance and 2. suggestive guidance, are manipulated in this study. To enable manipulation, the Python library [Chatterbot](https://chatterbot.readthedocs.io/en/stable/index.html) is used to build real chatbots that can provide certain messages as the stimulus materials during experiment. Two chatbots - Alex01 and Alex02, are trained through running the codes in [Chatbot01.ipynb](./Chatbot01.ipynb) and [Chatbot02.ipynb](./Chatbot02.ipynb).
 
-In the condition of informative guidance, when the participant type in "Find me cafés in Amsterdam" in the chatbot's input area, the chatbot will respond "I found some information about the cafés in Amsterdam" followed by the picture ![Stimuli](https://github.com/AlessiaWang/myimage/blob/main/stimuli.png?raw=true).
+In the condition of informative guidance, when the participant type in "Find me cafés in Amsterdam" in the chatbot's input area, the chatbot will respond "I found some information about the cafés in Amsterdam" followed by the picture: ![Stimuli](https://github.com/AlessiaWang/myimage/blob/main/stimuli.png?raw=true)
 
-In the condition of suggestive guidance, when the participant type in "Find me cafés in Amsterdam" in the chatbot's input area, the chatbot will respond "I’d love to recommend you to try the following cafés in Amsterdam" followed by the picture ![Stimuli](https://github.com/AlessiaWang/myimage/blob/main/stimuli.png?raw=true).
+In the condition of suggestive guidance, when the participant type in "Find me cafés in Amsterdam" in the chatbot's input area, the chatbot will respond "I’d love to recommend you to try the following cafés in Amsterdam" followed by the picture: ![Stimuli](https://github.com/AlessiaWang/myimage/blob/main/stimuli.png?raw=true)
 
 The other codes for training both chatbots are precisely the same. 
 
@@ -155,17 +155,27 @@ During the experiment, participants are able to read [How_to_chat_with_the_Chatb
 
 ## References list
 [Build a Chatbot using Flask in 5 minutes](https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i)
+
 [Build your first ChatBot in 5 minutes](https://dev.to/sahilrajput/build-your-first-chatbot-in-5-minutes--15e3) 
-[Candice-YourPersonalChatBot
-](https://github.com/sahil-rajput/Candice-YourPersonalChatBot)
+
+[Candice-YourPersonalChatBot](https://github.com/sahil-rajput/Candice-YourPersonalChatBot)
+
 [Can i train multiple answers to the same question ? #1587](https://github.com/gunthercox/ChatterBot/issues/1587)
+
 [Chatterbot Installation Doc](https://chatterbot.readthedocs.io/en/stable/setup.html)
+
 [Chatterbot on Github](https://github.com/gunthercox/ChatterBot/tree/master/chatterbot)
+
 [Create a chatbot based on Chatterbot (Chinese)](https://blog.51cto.com/u_10487107/4881132)
+
 [Creating multiple bots on same server instance without sharing training data #1232](https://github.com/gunthercox/ChatterBot/issues/1232) 
 [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) 
+
 [How to train an Chatbot with Custom Datasets](https://medium.com/@shaikhrayyan123/how-to-train-an-chatbot-with-custom-datasets-107ce09f4326)
 ['pip install chatterbot' error #2305](https://github.com/gunthercox/ChatterBot/issues/2305)
+
 [python chatterbot call function instead of providing a text response back](https://stackoverflow.com/questions/73421480/python-chatterbot-call-function-instead-of-providing-a-text-response-back)
+
 [Random responses to same question #234](https://github.com/gunthercox/ChatterBot/issues/234) 
+
 [Use Chatterbot to create chatbots (Chinese)](https://www.biaodianfu.com/chatterbot.html)
