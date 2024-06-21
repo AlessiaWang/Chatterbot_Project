@@ -106,7 +106,7 @@ After successfully installed Python, pip, and Jupyter Lab, you can open all the 
 
 First of all, make sure that you read the content and run the codes in the Jupyter Notebook file [**Program_Setting_Up_Guide.ipynb**](./Program_Setting_Up_Guide.ipynb). This file is written to install the Chatterbot library as well as the flask framework and make sure that there will not be incompatibability issues between different libraries or packages when you attempt to run the codes in [Chatbot01.ipynb](./Chatbot01.ipynb) or [Chatbot02.ipynb](./Chatbot02.ipynb). 
 
-The three `.py` Python scripts in the folder 'myscripts' are written to solve some program errors the research has encountered during the chatbot training procedure. You can replace the files that have the same name on your laptop with these edited scripts. For step-by-step instructions, please read the file [Program_Setting_Up_Guide.ipynb](./Program_Setting_Up_Guide.ipynb).
+The three `.py` Python scripts in the folder [myscripts](./myscripts) are written to solve some program errors the research has encountered during the chatbot training procedure. You can replace the files that have the same name on your laptop with these edited scripts. For step-by-step instructions, please read the file [Program_Setting_Up_Guide.ipynb](./Program_Setting_Up_Guide.ipynb).
 
 ### 3. Randomly assigning participants to different conditions
 
@@ -122,9 +122,9 @@ The Jupyter notebook file [Chatbot01.ipynb](./Chatbot01.ipynb) and [Chatbot02.ip
 
 The codes in both files only differ in the pre-determined text response to the user input **'Find me cafés in Amsterdam'**. 
 
-The `.yml` files in the folder 'Corpus' are the corpus data that are used to train the personal chatbots. They are manually adapted by the research **Yilan Wang** based on [the original English corpus for Chatterbot](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/english).
+The `.yml` files in the folder [Corpus](./Corpus) are the corpus data that are used to train the personal chatbots. They are manually adapted by the research **Yilan Wang** based on [the original English corpus for Chatterbot](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/english).
 
-The two `.html` files in the folder 'templates', [home01.html](./templates/home01.html) and [home02.html](./templates/home02.html) are the templates that are used for building the web Front-End of your personal chatbots on your local port. The codes of these two files only differ in the page title - one is called 'Alex01' (informative guidance) and the other is called 'Alex02' (suggestive guidance). Therefore, the researcher will not confuse the two chatbots.
+The two `.html` files in the folder [templates](./templates), [home01.html](./templates/home01.html) and [home02.html](./templates/home02.html) are the templates that are used for building the web Front-End of your personal chatbots on your local port. The codes of these two files only differ in the page title - one is called 'Alex01' (informative guidance) and the other is called 'Alex02' (suggestive guidance). Therefore, the researcher will not confuse the two chatbots.
 
 The image [chatbot_icon.png](./templates/chatbot_icon.png) in the same folder is used to create an 'appearance' for the chatbot so that participants can better understand that they are chatting with a bot.
 
