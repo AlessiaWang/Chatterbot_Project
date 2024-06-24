@@ -1,4 +1,4 @@
-### <span style="color:red">Please read this file</span> before opening the Jupyter Notebook files in this folder and running the codes there.
+### Please <span style="color:red"> read this file</span> before opening the Jupyter Notebook files in this folder and running the codes there.
 
 # Chatterbot_Project
 This repository stores all the files that are used to build and train chatbots for my master's thesis.
@@ -54,6 +54,7 @@ For more details about the experimental conditions, please read the section `Bui
 - Program_Setting_Up_Guide.ipynb
 - Random_Number_Generator.ipynb
 - README.md
+- Reflection_Chatbot_Development.md
 
 ## How to read and use these files
 
@@ -152,6 +153,10 @@ The same thing applies to the codes in the file [Chatbot02.ipynb](./Chatbot02.ip
 ### 7. Providing instructions to your participants
 
 During the experiment, participants are able to read [How_to_chat_with_the_Chatbot.docx](./How_to_chat_with_the_Chatbot.docx) on a piece of paper at their right hand side. It gives some brief instructions to help them understand how to interact with the chatbots.
+
+### 8. Reflecting on building the chatbots and conducting the experiments
+
+(Reflection_Chatbot_Development.md)[./Reflection_Chatbot_Development.md] contains the information about my personal reflections on the limitations of my chatbots as well as my research design from methodological perspectives.
 
 ## References list
 [Build a Chatbot using Flask in 5 minutes](https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i)
