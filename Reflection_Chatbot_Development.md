@@ -30,7 +30,7 @@ I have not yet figured out how to solve the problem yet. Maybe this problem was 
 
 This problem could affect user's emotional feelings about the chatbot which they interacted with during the experiment. They may tend to like a chatbot more if it suddenly tells an interesting joke, and they may tend to dislike a chatbot if it says something that is somehow not logical and even a bit offensive. Thus, together with the perceived functionality ('smartness') of the chatbot, emotional feelings may cause that the participants have a higher degree of trust or distrust in the chatbot and its messages. This could in turn have confounded the effect of consumer scepticism on purchase intention in my study. 
 
-### 3. My chatbots could not only learn from responses but also the user's inputs
+### 3. My chatbots cannot only learn from responses but also the user's inputs
 
 This is also a major limitation of my chatbots. These chatbots learnt everything that were written in the list data and corpus data used to train them, including the pontential user inputs that are used to be compared with the actual user inputs in terms of similarity. 
 
@@ -39,7 +39,7 @@ For example:
 - Then the problem occurs:
   - In my list data, I set that: when a user asked "Find me cafés in Amsterdam", the chatbots will provide some specific, pre-determined responses. But this also means that the chatbots may suddenly ask the participants to "Find me cafés in Amsterdam". Although in my brief user's guide (How_to_chat_with_the_Chatbot.docx)[./How_to_chat_with_the_Chatbot.docx], I already told the participants, if the chatbots asked them something that you did not know how to answer or did not want to answer, they could just reply "I don't know" or throw the question back to the chatbots. But this problem still could have resulted in a lower degree of the perceived functionality of the chatbots, which could have confounded the effect of consumer scepticism on purchase intention.
  
-Unfortuantely, I haven't found a solution to this problem.
+Unfortuantely, I haven't found a solution for this problem.
 
 ### 4. My failures
 
