@@ -157,7 +157,7 @@ During the experiment, participants are able to read [How_to_chat_with_the_Chatb
 
 ### 8. Reflecting on building the chatbots and conducting the experiments
 
-(Reflection_Chatbot_Development.md)[./Reflection_Chatbot_Development.md] contains the information about my personal reflections on the limitations of my chatbots as well as my research design from methodological perspectives.
+[Reflection_Chatbot_Development.md](./Reflection_Chatbot_Development.md) contains the information about my personal reflections on the limitations of my chatbots as well as my research design from methodological perspectives.
 
 ### 9. License for use
 This project is licensed under GNU General Public License v3.0. For more information please check the file [LICENSE](./LICENSE).
