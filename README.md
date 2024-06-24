@@ -28,6 +28,8 @@ For more details about the experimental conditions, please read the section `Bui
 
 ## Files in this folder 
 
+- Chatbot01.ipynb
+- Chatbot02.ipynb
 - Corpus
   - botprofile.yml
   - computers.yml
@@ -41,20 +43,19 @@ For more details about the experimental conditions, please read the section `Bui
   - psychology.yml
   - science.yml
   - sports.yml
+- LICENSE
 - myscripts
   - app.py
   - constructor.py
   - corpus.py
-- templates
-  - chatbot_icon.png
-  - home01.html
-  - home02.html
-- Chatbot01.ipynb
-- Chatbot02.ipynb
 - Program_Setting_Up_Guide.ipynb
 - Random_Number_Generator.ipynb
 - README.md
 - Reflection_Chatbot_Development.md
+- templates
+  - chatbot_icon.png
+  - home01.html
+  - home02.html
 
 ## How to read and use these files
 
@@ -157,6 +158,9 @@ During the experiment, participants are able to read [How_to_chat_with_the_Chatb
 ### 8. Reflecting on building the chatbots and conducting the experiments
 
 (Reflection_Chatbot_Development.md)[./Reflection_Chatbot_Development.md] contains the information about my personal reflections on the limitations of my chatbots as well as my research design from methodological perspectives.
+
+### 9. License for use
+This project is licensed under GNU General Public License v3.0. For more information please check the file (LICENSE)[./LICENSE].
 
 ## References list
 [Build a Chatbot using Flask in 5 minutes](https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i)
