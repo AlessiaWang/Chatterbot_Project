@@ -160,7 +160,7 @@ During the experiment, participants are able to read [How_to_chat_with_the_Chatb
 (Reflection_Chatbot_Development.md)[./Reflection_Chatbot_Development.md] contains the information about my personal reflections on the limitations of my chatbots as well as my research design from methodological perspectives.
 
 ### 9. License for use
-This project is licensed under GNU General Public License v3.0. For more information please check the file (LICENSE)[./LICENSE].
+This project is licensed under GNU General Public License v3.0. For more information please check the file [LICENSE](./LICENSE).
 
 ## References list
 [Build a Chatbot using Flask in 5 minutes](https://dev.to/sahilrajput/build-a-chatbot-using-flask-in-5-minutes-574i)
