@@ -1,4 +1,4 @@
-### Please <span style="color:red"> read this file </span> before opening or running the python files in this folder.
+### Please <span style="color:red"> read this file </span> before opening or running the Python files in this folder.
 
 # Chatbot_Project
 This folder contains files and codes that were used for developing and training the two chatbots which exposed participants in the online experiment of this study to certain predetermined stimulus materials.
