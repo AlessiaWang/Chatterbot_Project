@@ -1,0 +1,6 @@
+pip
+chatterbot==1.0.4
+nltk
+PyYAML
+Flask==3.0.3
+pytz==2024.1
