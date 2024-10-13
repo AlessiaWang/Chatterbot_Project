@@ -13,7 +13,7 @@ The thesis investigated how different types of **decisional guidance** (informat
 - **Decisional guidance**: a kind of system that provides relevant information to assist the consumer's decision making process.
 - **Informative guidance**: providing the content about some products/services without making recommendations on which purchase decision consumers should make (i.e., what products/services they should buy).
 - **Suggestive guidance**: providing the content including explicit recommendations on which purchase decision consumers should make.
-- **Consumer scepticism**: consumer's degree of distrust towards chatbots on a whole, regardless of the diversity in chatbots' classifications and usages.
+- **Consumer scepticism**: consumer's degree of distrust towards chatbots on the whole, regardless of the diversity in chatbots' classifications and usages.
 - **Purchase intention**: consumer's willingness to buy certain products or services.
 - **Attitude towards the content**: consumer's attitude towards the content of the output messages in which certain products and services are briefly described.
 
