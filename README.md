@@ -30,7 +30,6 @@ Due to the properties of `Chatterbot`, the chatbots used in this study were unab
 
 - For more details about the development and training of the chatbots in this study, please read the section `Building and training the chatbots on local computers` below.
 - For more details about the deployment of the chatbots in this study, please read the section `Deploying the chatbots online` below.
-- For more details about the hypotheses, methods, and results of this research, please read the Word document [2024_SEM2_YilanWang_ZephMCvanBerlo_MasterThesis.docx].
 
 ## Structure of this folder and the files
 
