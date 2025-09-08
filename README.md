@@ -5,7 +5,7 @@ This folder contains files and codes that were used for developing and training 
 
 ## Project description
 
-All the files in this folder were created/edited by **Alessia Wang**, research master of Communication Science (September 2022 - July 2024) at the University of Amsterdam, for the master thesis - **Give An Option, or Give A Solution? The Role of Scepticism and Conversational Agents’ Decisional Guidance in Consumer Decision Making**. 
+All the files in this folder were created/edited by **Alessia Wang**, research master of Communication Science at the University of Amsterdam, for the master thesis - **Give An Option, or Give A Solution? The Role of Scepticism and Conversational Agents’ Decisional Guidance in Consumer Decision Making**. 
 
 The thesis investigated how different types of **decisional guidance** (informative vs. suggestive) provided in a chatbot's output messages containing brief descriptions about certain products and services, together with the level of **consumer scepticism** (low vs. high) towards chatbots as a general concept, affected consumer's **purchase intention** towards those products and services, in the context of leisure consumption. Additionally, the research studied the mediation role of consumer's attitude towards the content about those products and services in the relationship between decisional guidance and purchase intention. 
 
