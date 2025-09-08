@@ -5,7 +5,7 @@
 # Program Setting Up Guide
 
 ## 1. File description
-This markdown file is written by **Yilan Wang** (Student Number: 12813168), research master of Communication Science (September 2022 - July 2024) at the University of Amsterdam, to enable that the Python library [Chatterbot](https://chatterbot.readthedocs.io/en/stable/index.html) runs successfully on local laptops or personal computers. 
+This markdown file is written by Alessia Wang, research master of Communication Science at the University of Amsterdam, to enable that the Python library [Chatterbot](https://chatterbot.readthedocs.io/en/stable/index.html) runs successfully on local laptops or personal computers. 
 
 `Chatterbot` is a Python library which was used to develop chatbots that were able to provide users with messages containing the stimulus materials used in the experimental research - **Give An Option, or Give A Solution? The Role of Scepticism and Conversational Agents’ Decisional Guidance in Consumer Decision Making**. 
 
